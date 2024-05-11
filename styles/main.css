@@ -95,5 +95,5 @@ main {
 
 /* WPH is adding the following style to stop the float of the images and to center them */
 @media (max-width: 600px) {
-    img {float: none; text-align: center;}
+    img {float: none; margin: 0 auto;}
 }
